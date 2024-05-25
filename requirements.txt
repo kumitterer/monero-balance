@@ -1,0 +1,4 @@
+monero
+pyyaml
+prometheus_client
+flask
